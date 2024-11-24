@@ -5,7 +5,7 @@ import * as dotenv from "dotenv";
 dotenv.config();
 
 // Import service account key JSON
-const serviceAccount = require("../secrets/web-app-testcode-firebase-adminsdk-mkg84-0be6d56ad3.json");
+const serviceAccount = require("../secrets/");
 
 // Initialize Firebase Admin SDK
 if (!admin.apps.length) {
