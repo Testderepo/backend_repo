@@ -2,3 +2,5 @@
 .env*
 # dependencies
 /node_modules
+
+config/web-app-testcode-firebase-adminsdk-mkg84-0be6d56ad3.json
